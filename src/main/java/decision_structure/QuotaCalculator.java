@@ -8,7 +8,7 @@ public class QuotaCalculator {
 
         int quota = 10;
 
-        System.out.println("Enter the number of slaes made");
+        System.out.println("Enter the number of sales made");
         Scanner scanner = new Scanner(System.in);
 
         int sales = scanner.nextInt();
